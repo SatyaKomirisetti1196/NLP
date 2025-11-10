@@ -30,8 +30,8 @@ This assignment implements two Natural Language Processing (NLP) tasks demonstra
 
 ## 📁 Project Structure
 ```txt
-nlp-ml-assignment-satya/
-├── ml_nlp.ipynb          # Main Jupyter notebook with complete solution
+nlp-ml-assignment/
+├── nlp.ipynb          # Main Jupyter notebook with complete solution
 ├── requirements.txt              # Python dependencies
 └── readme-docs.md                    # This documentation file
 ```
